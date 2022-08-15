@@ -1,7 +1,7 @@
 #  Joven A. Barola - Computer Programmer
 Summaries about me:
 - **Fullstack Web Developer**
-- **DevOps Experience**
+- **DevOps**
 - **Coding Since:** 2007
 - **Area of specialization:** Business applications, Utility applications abd Integration/Automation scripting
 - **First programming language learned:** QBasic
