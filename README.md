@@ -1,6 +1,12 @@
 #  Joven A. Barola - Computer Programmer
-- **Fullstack Web Developer (Laravel, NodeJS)**
+Summaries about me:
+- **Fullstack Web Developer**
 - **DevOps Experience**
+- **Coding Since:** 2007
+- **Area of specialization:** Business applications, Utility applications abd Integration/Automation scripting
+- **First programming language learned:** QBasic
+- **First programming language used professionally:** Visual Basic 6
+- **First web languages learned:** HTML -> CSS -> Javascript -> ASP Classic -> Coldfusion (Year 2008 to 2010)
 
 ## Daily Time Record (with Screenshot capture)
 
