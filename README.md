@@ -1,5 +1,6 @@
-#  Joven A. Barola
-**Full-stack software engineer with DevOps experience**
+#  Joven A. Barola - Computer Programmer
+- **Fullstack Web Developer (Laravel, NodeJS)**
+- **DevOps Experience**
 
 ## Daily Time Record (with Screenshot capture)
 
