@@ -61,6 +61,7 @@
   - LCD, Wirings etc.
 
 <hr>
-# ACTIVITIES 
+
+## ACTIVITIES
 
 ![Metrics](https://metrics.lecoq.io/jovenbarola?template=classic&config.timezone=Asia%2FManila)
