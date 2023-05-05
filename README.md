@@ -15,4 +15,3 @@ MORE ABOUT ME https://me.jbarola.net
 
 ## ACTIVITIES
 
-![Metrics](https://metrics.lecoq.io/jovenbarola?template=classic&config.timezone=Asia%2FManila)
