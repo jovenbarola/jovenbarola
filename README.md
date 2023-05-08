@@ -9,9 +9,5 @@ Summaries about me:
 - **First programming language used professionally:** Visual Basic 6
 - **First web languages learned:** HTML -> CSS -> Javascript -> ASP Classic -> Coldfusion (Year 2008 to 2010)
 
-MORE ABOUT ME https://www.jbarola.net
-
-<hr>
-
-## ACTIVITIES
+More details about me: https://www.jbarola.net
 
