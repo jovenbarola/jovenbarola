@@ -1,11 +1,17 @@
 #  Joven A. Barola - Computer Programmer
-Summaries about me:
-- **Fullstack Web Developer**
-- **DevOps**
+
+![image](https://user-images.githubusercontent.com/129955/236810349-2b1674fc-7fba-4d03-a41b-0f43bcb034b9.png)
+
+## Experienced Roles
+#FullstackWebDeveloper
+#CloudEngineer
+#DevOps
+
+## Summaries
 - **Coding Since:** 2007
-- **Server Admin Since:** 2012
+- **Cloud Since:** 2012
 - **Area of specialization:** Business applications, Utility applications abd Integration/Automation scripting
-- **First programming language learned:** QBasic
+- **First programming language learned:** QBasic, Pascal, C++
 - **First programming language used professionally:** Visual Basic 6
 - **First web languages learned:** HTML -> CSS -> Javascript -> ASP Classic -> Coldfusion (Year 2008 to 2010)
 
