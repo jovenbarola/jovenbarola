@@ -17,3 +17,5 @@
 
 More details about me: https://www.jbarola.net
 
+<a href="https://app.daily.dev/jovenbarola"><img src="https://api.daily.dev/devcards/4012aae612f147618ce82c609b0c1dad.png?r=09l" width="400" alt="Joven Barola's Dev Card"/></a>
+
