@@ -1,11 +1,10 @@
-#  Joven A. Barola - Computer Programmer
+#  Joven A. Barola - Fullstack Software Engineer
 
 ![image](https://user-images.githubusercontent.com/129955/236810349-2b1674fc-7fba-4d03-a41b-0f43bcb034b9.png)
 
 ## Experienced Roles
-#FullstackWebDeveloper
-#CloudEngineer
-#DevOps
+#FullstackSoftwareEngineer
+#CloudEngineer (Onpremise/Cloud)
 
 ## Summaries
 - **Coding Since:** 2007
