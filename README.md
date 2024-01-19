@@ -1,8 +1,9 @@
 #  Joven A. Barola - Fullstack Software Engineer
 
-![image](https://user-images.githubusercontent.com/129955/236810349-2b1674fc-7fba-4d03-a41b-0f43bcb034b9.png)
+![github-header-image](https://github.com/jovenbarola/jovenbarola/assets/129955/05e01ff7-dbf5-4511-987f-de68f1228aa6)
 
 ## Experienced Roles
+
 #FullstackSoftwareEngineer
 #CloudEngineer (Onpremise/Cloud)
 
